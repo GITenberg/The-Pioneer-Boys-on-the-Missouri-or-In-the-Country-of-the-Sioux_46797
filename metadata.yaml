@@ -1,10 +1,14 @@
 _repo: The-Pioneer-Boys-on-the-Missouri-or-In-the-Country-of-the-Sioux_46797
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Rogers, Walter S.
     birthdate: 1871
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 46797-h/images/cover.jpg
 creator:
   author:
     agent_name: Rathborne, St. George
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1599
     wikipedia: http://en.wikipedia.org/wiki/St._George_Rathborne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46797#The-Pioneer-Boys-on-the-Missouri-or-In-the-Country-of-the-Sioux
 gutenberg_issued: '2014-09-07'
 gutenberg_type: Text
 identifiers:
